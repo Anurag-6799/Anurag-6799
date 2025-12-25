@@ -19,8 +19,11 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### 📈 Github Stats
+#### 📈 Github Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-6799&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=6" alt="Anurag's Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-6799&theme=radical&hide_border=false" alt="Anurag's Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=6&cache_seconds=10000" alt="Anurag's Top Languages" />
 </div>
