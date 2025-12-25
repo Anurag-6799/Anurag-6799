@@ -20,4 +20,7 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### 📈 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-6799&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-6799&show_icons=true&theme=radical&count_private=true" alt="Anurag's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=6" alt="Anurag's Top Languages" height="180" />
+</div>
