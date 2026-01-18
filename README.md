@@ -6,7 +6,6 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
 
 - 🔭 **I’m currently working on:** Optimizing high-traffic backend services and integrating enterprise ERPs at **Vetic**.
 - 🌱 **I’m currently learning:** Advanced System Design, Cloud Architecture (AWS), and Microservices patterns.
-- 🇮🇪 **Goal:** Seeking SDE-2 Backend roles in **Ireland** (Eligible for Critical Skills Permit).
 
 #### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,9 +20,17 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
 
 #### 📈 Github Activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-6799&theme=radical&hide_border=false" alt="Anurag's Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=6&cache_seconds=10000" alt="Anurag's Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Anurag-6799&theme=radical&hide_border=true" height="180" alt="Anurag's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=86400" height="180" alt="Anurag's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anurag-kumar-singh-ba30/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://anurag30.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
 </div>
