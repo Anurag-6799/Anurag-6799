@@ -29,10 +29,6 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
   <a href="https://github.com/Anurag-6799">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-6799&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Anurag's Activity Graph" width="800" />
   </a>
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&hide_border=true&bg_color=0d1117&title_color=5bcdec&text_color=ffffff&icon_color=5bcdec&langs_count=8" alt="Top Languages" width="800" />
 </div>
 
 <br />
@@ -47,7 +43,7 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
     <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:singhanurag6799@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
