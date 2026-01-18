@@ -18,19 +18,26 @@ I enjoy solving complex engineering challenges across diverse domains—from **E
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### 📈 Github Activity
+#### 📈 Engineering Metrics
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anurag-6799&theme=radical&hide_border=true" height="180" alt="Anurag's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-6799&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=86400" height="180" alt="Anurag's Top Languages" />
+  <a href="https://github.com/Anurag-6799">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anurag-6799&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" alt="Anurag's Activity Graph" width="800" />
+  </a>
+  
+  <br/>
+  
+  <img src="https://metrics.lecoq.io/Anurag-6799?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&config.timezone=Asia%2FKolkata" alt="Anurag's Metrics" width="800" />
 </div>
 
-<br/>
+<br />
 
-<div align="center">
+<div align="center"> 
   <a href="https://www.linkedin.com/in/anurag-kumar-singh-ba30/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://anurag30.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Anurag30-black?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
 </div>
